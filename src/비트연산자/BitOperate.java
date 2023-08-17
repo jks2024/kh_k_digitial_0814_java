@@ -17,6 +17,9 @@ public class BitOperate {
         System.out.println(~num1);
         System.out.println(num1 << 1);
         System.out.println(num1 >> 1);
+        System.out.println(num1 << 1);
+        System.out.println(num1 >> 1);
+
 
     }
 }
