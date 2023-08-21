@@ -19,7 +19,5 @@ public class WhileEx {
         }
         System.out.println("주어진 정수의 합 : " + sum);
 
-
-
     }
 }

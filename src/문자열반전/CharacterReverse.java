@@ -1,5 +1,4 @@
 package 문자열반전;
-
 import java.util.Scanner;
 
 // 문자열을 입력 받음 : abcd -> dcba
@@ -18,6 +17,5 @@ public class CharacterReverse {
         for(int i = pos; i > -1; i--) {
             System.out.print(input.charAt(i));
         }
-
     }
 }
